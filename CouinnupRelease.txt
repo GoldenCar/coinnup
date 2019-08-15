@@ -1,0 +1,4 @@
+Path to key: coinupp\couinnupKey.jks
+all passwords: Paymaz0134
+Alias: Paymaz
+
